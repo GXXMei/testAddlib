@@ -1,0 +1,9 @@
+E:\Projects\CSharp\add\testAdd\testAdd\bin\Debug\testAdd.exe
+E:\Projects\CSharp\add\testAdd\testAdd\bin\Debug\testAdd.pdb
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.csproj.AssemblyReference.cache
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.Form1.resources
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.Properties.Resources.resources
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.csproj.GenerateResource.cache
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.exe
+E:\Projects\CSharp\add\testAdd\testAdd\obj\Debug\testAdd.pdb
